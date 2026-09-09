@@ -1,3 +1,9 @@
+# Development
+
+- Recorded the folder-based GeoPackage-vector/GeoTIFF-terrain migration direction
+  and fixture metadata requirements in [fixture storage guidance](inst/extdata/README-storage.md).
+  Existing archive fixtures are unchanged; new migration fixtures remain to be qualified.
+
 # fluvgeodata 2025.04.12
 
 ## Major changes
